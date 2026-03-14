@@ -1,5 +1,5 @@
 # 💫 About Me:
-Samad Ur Rehman 19, BCA 2nd year (Bhopal). beginner-to-intermediate ML.<br>Completed IIT Delhi ML-in-Finance certificate. I'm the type who loves building things <br>more than talking about them . I jump into new tech ideas fast sometimes too fast<br>and I'm still learning to finish things with polish instead of just prototypes <br><br>Fun facts about me :<br>I get curious about everything from ML to cybersecurity to building my own tools . <br>I can spend figuring out a problem if it hooks my brain. <br>
+Samad Ur Rehman 20, BCA 2nd year (Bhopal). beginner-to-intermediate ML.<br>Completed IIT Delhi ML-in-Finance certificate. I'm the type who loves building things <br>more than talking about them . I jump into new tech ideas fast sometimes too fast<br>and I'm still learning to finish things with polish instead of just prototypes <br><br>Fun facts about me :<br>I get curious about everything from ML to cybersecurity to building my own tools . <br>I can spend figuring out a problem if it hooks my brain. <br>
 
 
 ## 🌐 Socials:
